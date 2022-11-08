@@ -132,11 +132,5 @@ namespace ShaderTest
                 }
             }
         }
-
-        public static void Main(String[] args)
-        {
-            Sphere program = new Sphere();
-            program.runAnimationEightCurve();
-        }
     }
 }
